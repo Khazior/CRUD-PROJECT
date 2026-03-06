@@ -13,6 +13,6 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4.3.0
         with:
           server: ftpupload.net
-          username: epiz_12345678
+          username: if0_41322781
           password: ${{ secrets.PBvdnjmd8qW3 }}
           server-dir: /htdocs/
